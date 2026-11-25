@@ -13,7 +13,7 @@ A simple utility package for determining whether a supposedly static camera move
 
 ### **1. clone the repository**
 ```
-git clone https://github.com/BAL-ROCS-BUT-COOL/calib-move
+git clone https://github.com/BAL-ORX/camera_calib_move
 cd <repo-folder>
 ```
 
@@ -132,6 +132,6 @@ The main movement analysis will save a plot for each processed video in the `--o
 
 
 ## **🎫 License**
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/eliassteiner1/balgrist-calib-move/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 

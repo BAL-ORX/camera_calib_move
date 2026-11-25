@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/eliassteiner1/balgrist-calib-move"
+Homepage = "https://github.com/BAL-ORX/camera_calib_move"
 
 [project.scripts]
 calib-move-run = "calib_move.main:main_func"
